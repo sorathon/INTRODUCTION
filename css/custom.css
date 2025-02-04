@@ -6,6 +6,17 @@
 .navbar{
     background-color: #f8f9fa;
 }
+.bg-dark {
+    background-color: #010101 !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    font-size: 25px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: rgba(255, 255, 255, 1);
+}
+/*
 .nav-link{
     color: #000;
     font-size: 1.2rem;
@@ -13,6 +24,7 @@
     cursor:  pointer;
     text-decoration: none;
 }
+*/
 
 .nav-link:hover{
     color: white;
