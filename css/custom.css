@@ -73,4 +73,7 @@ section.main{
 .move-up{
     margin: -20px;
 }
+img {
+    max-width: 100%;
+  }
 
